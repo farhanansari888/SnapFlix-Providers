@@ -20,12 +20,12 @@ function getIntroDbCache(): Record<
       ? providerGlobal
       : globalThis;
   if (
-    !state.__vegaTheIntroDbCache__ ||
-    typeof state.__vegaTheIntroDbCache__ !== "object"
+    !state.__SnapFlixTheIntroDbCache__ ||
+    typeof state.__SnapFlixTheIntroDbCache__ !== "object"
   ) {
-    state.__vegaTheIntroDbCache__ = Object.create(null);
+    state.__SnapFlixTheIntroDbCache__ = Object.create(null);
   }
-  return state.__vegaTheIntroDbCache__;
+  return state.__SnapFlixTheIntroDbCache__;
 }
 
 export async function fetchTheIntroDbSkipTimings({
