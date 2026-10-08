@@ -432,9 +432,9 @@ export const getStream = async function ({
 
 ## Test with CLI
 
-1. Run `npm test -- provider_name` (example: `npm test -- showbox`)
+1. Run `npm test -- provider_name` (example: `npm test -- castle`)
    - This will do full testing by picking random posts and episodes and testing end-to-end.
-2. Run `npm run test:provider -- provider_name function_name` (example: `npm run test:provider -- showbox getPosts`)
+2. Run `npm run test:provider -- provider_name function_name` (example: `npm run test:provider -- castle getPosts`)
    - This is for testing a single function, such as getPosts, getSearchPosts, getStream, etc. After entering manually, enter the input.
 
 ## Test in App
