@@ -690,10 +690,10 @@ Default behavior:
 
 Examples:
   npm test                                  # Test all providers
-  npm test -- hdhub4u                       # Test random movie/show from hdhub4u
-  npm test -- hdhub4u --first               # Always test first post (e.g. pinned/latest)
-  npm test -- hdhub4u --index=2             # Test 3rd post
-  npm test -- kickAssAnime                  # Test kickAssAnime
+  npm test -- castle                        # Test random movie/show from castle
+  npm test -- castle --first                # Always test first post (e.g. pinned/latest)
+  npm test -- castle --index=2              # Test 3rd post
+  npm test -- mxplayer                      # Test mxplayer
     `);
     return;
   }
