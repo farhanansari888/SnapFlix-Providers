@@ -1,11 +1,21 @@
 [
   {
-    "display_name": "MovieBox App",
-    "value": "movieBox",
-    "version": "2.5",
-    "icon": "",
+    "display_name": "MultiStream",
+    "value": "autoEmbed",
+    "version": "3.4",
+    "icon": "https://cdn.jsdelivr.net/gh/farhanansari888/SnapFlix-Providers@main/assets/autoEmbed.png",
     "type": "global",
-    "disabled": true
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "4khdHub",
+    "value": "4khdhub",
+    "version": "2.20",
+    "icon": "https://cdn.jsdelivr.net/gh/farhanansari888/SnapFlix-Providers@main/assets/4khdhub.png",
+    "type": "global",
+    "disabled": false,
+    "hasSettings": true
   },
   {
     "display_name": "MovieBox Web",
@@ -16,33 +26,6 @@
     "disabled": false
   },
   {
-    "display_name": "NetflixMirror",
-    "value": "netflixMirror",
-    "version": "2.11",
-    "icon": "https://cdn.jsdelivr.net/gh/farhanansari888/SnapFlix-Providers@main/assets/netflixMirror.webp",
-    "type": "global",
-    "disabled": false,
-    "hasSettings": true
-  },
-  {
-    "display_name": "PrimeMirror",
-    "value": "primeMirror",
-    "version": "2.10",
-    "icon": "https://cdn.jsdelivr.net/gh/farhanansari888/SnapFlix-Providers@main/assets/primeMirror.webp",
-    "type": "global",
-    "disabled": false,
-    "hasSettings": true
-  },
-  {
-    "display_name": "DisneyMirror",
-    "value": "disneyMirror",
-    "version": "2.2",
-    "icon": "https://cdn.jsdelivr.net/gh/farhanansari888/SnapFlix-Providers@main/assets/disneyMirror.webp",
-    "type": "global",
-    "disabled": false,
-    "hasSettings": true
-  },
-  {
     "display_name": "Castle TV",
     "value": "castle",
     "version": "1.0",
@@ -51,11 +34,29 @@
     "disabled": false
   },
   {
-    "display_name": "MX Player",
-    "value": "mxplayer",
-    "version": "1.1",
-    "icon": "https://cdn.jsdelivr.net/gh/farhanansari888/SnapFlix-Providers@main/assets/mxplayer.png",
-    "type": "india",
+    "display_name": "VMovies",
+    "value": "vega",
+    "version": "2.45",
+    "icon": "https://cdn.jsdelivr.net/gh/farhanansari888/SnapFlix-Providers@main/assets/vega.png",
+    "type": "global",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "Anikoto",
+    "value": "anikoto",
+    "version": "2.0",
+    "icon": "https://cdn.jsdelivr.net/gh/farhanansari888/SnapFlix-Providers@main/assets/anikoto.png",
+    "type": "anime",
+    "disabled": false,
+    "hasSettings": true
+  },
+  {
+    "display_name": "KissKh",
+    "value": "kissKh",
+    "version": "1.5",
+    "icon": "https://cdn.jsdelivr.net/gh/farhanansari888/SnapFlix-Providers@main/assets/kissKh.png",
+    "type": "english",
     "disabled": false
   }
 ]

@@ -1,4 +1,8 @@
 {
+  "4khdhub": {
+    "name": "4khdhub",
+    "url": "https://4khdhub.one"
+  },
   "movieBoxWeb": {
     "name": "MovieBox Web",
     "url": "https://officialmoviebox.com"
@@ -7,8 +11,20 @@
     "name": "Castle TV",
     "url": "https://api.hlowb.com"
   },
-  "mxplayer": {
-    "name": "mxplayer",
-    "url": "https://www.mxplayer.in"
+  "Vega": {
+    "name": "vegamovies",
+    "url": "https://vegamovies.gallery"
+  },
+  "anikoto": {
+    "name": "anikoto",
+    "url": "https://anikototv.to"
+  },
+  "kissKh": {
+    "name": "kissKh",
+    "url": "https://kisskh.is"
+  },
+  "autoEmbed": {
+    "name": "MultiStream",
+    "url": "https://autoembed.cc"
   }
 }
